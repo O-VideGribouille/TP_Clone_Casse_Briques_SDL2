@@ -1,0 +1,8 @@
+﻿  CGame.cpp
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\ALgorithme\Trimestre1\Testes_SDL_C++\Test2_ - Copie\Test_CasseBrique\CGame.cpp(293,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\ALgorithme\Trimestre1\Testes_SDL_C++\Test2_ - Copie\Test_CasseBrique\CGame.cpp(294,28): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\ALgorithme\Trimestre1\Testes_SDL_C++\Test2_ - Copie\Test_CasseBrique\CGame.cpp(300,15): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\ALgorithme\Trimestre1\Testes_SDL_C++\Test2_ - Copie\Test_CasseBrique\CGame.cpp(311,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\ALgorithme\Trimestre1\Testes_SDL_C++\Test2_ - Copie\Test_CasseBrique\CGame.cpp(332,22): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\ALgorithme\Trimestre1\Testes_SDL_C++\Test2_ - Copie\Test_CasseBrique\CGame.cpp(338,15): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  Test_CasseBrique.vcxproj -> C:\Users\laboi\OneDrive\Documents\Ludus_Academie_2021-2022\ALgorithme\Trimestre1\Testes_SDL_C++\Test2_ - Copie\Test_CasseBrique\Debug\Test_CasseBrique.exe
